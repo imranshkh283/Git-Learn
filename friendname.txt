@@ -1,5 +1,4 @@
 Name
 
 Shamsher
-Amir
-Anas
+Amir 
